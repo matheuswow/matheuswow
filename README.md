@@ -41,3 +41,10 @@ Currently building enterprise AI agents, REST APIs, and data-driven workflows us
 ![Docker](https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=2496ED)
 ![Jenkins](https://img.shields.io/badge/CI%2FCD%20%2F%20Jenkins-1E293B?style=flat-square&logo=jenkins&logoColor=D24939)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-1E293B?style=flat-square&logo=google&logoColor=EA4335)
+
+---
+
+### Featured Projects
+
+- **[gcp-ai-data-agent](https://github.com/matheuswow/gcp-ai-data-agent)** — Read-only Text-to-SQL & Generative AI analytics API built with **FastAPI**, **Gemini (`google-genai` / Vertex AI)**, and **BigQuery** (with dry-run byte guardrails, SQL injection protection, Docker for Cloud Run, and automated CI).
+
