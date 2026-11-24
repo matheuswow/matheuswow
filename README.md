@@ -48,4 +48,5 @@ Currently building enterprise AI agents, REST APIs, and data-driven workflows us
 
 - **[gcp-ai-data-agent](https://github.com/matheuswow/gcp-ai-data-agent)** — Read-only Text-to-SQL & Generative AI analytics API built with **FastAPI**, **Gemini (`google-genai` / Vertex AI)**, and **BigQuery** (with dry-run byte guardrails, SQL injection protection, Docker for Cloud Run, and automated CI).
 - **[adk-multi-agent-assistant](https://github.com/matheuswow/adk-multi-agent-assistant)** — Enterprise IT & Google Workspace multi-agent assistant built with **Google ADK**, **Gemini**, and **FastAPI** (coordinator/specialist routing, auditable tool calls, tests, Docker, and CI).
+- **[workspace-ai-workflow-engine](https://github.com/matheuswow/workspace-ai-workflow-engine)** — Event-driven, idempotent webhook & Generative AI workflow engine built with **TypeScript**, **Node.js**, **Express**, and **Gemini (`@google/genai`)** (HMAC-SHA256 verification, exponential backoff retries, Zod validation, Docker, and CI).
 
